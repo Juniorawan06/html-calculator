@@ -16,3 +16,5 @@ use tables to create photo Gallary, vedio Gallary or any other Gallary.
 
 **Periodic Table**
 We will use the <table> tag to create a Periodic Table of the Elements.
+
+<img src="img/calculator.png">
